@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Watchdock, an open source Docker Desktop extension to help developers manage images/containers and display image/container metrics.
+
+- 🌱 Tech stack: JavaScript, TypeScript, React, Node.js, Express.js, PostgreSQL
+- 💬 Recent Tech Talks: Proxies in System Design https://bit.ly/js-proxies
+- 😸 Hobbies: Photography | Tea | Cats | Comedy | Yoga | Gym
 <!--
 **jennyschmalz/jennyschmalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
