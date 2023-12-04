@@ -5,7 +5,7 @@ I'm a Software Engineer specializing on backend development and building with an
 🔭 I’m currently working on Watchdock, an open source Docker Desktop extension to help developers manage images/containers and display image/container metrics.
 
 - 🌱 Tech stack: JavaScript, TypeScript, React, Node.js, Express.js, PostgreSQL
-- 💬 Recent Tech Talks: [Proxies in System Design](https://bit.ly/js-proxies)
+- 💬 Recent Tech Talks: Proxies in System Design
 - ⚡ LinkedIn: [Connect with Jenny!](https://www.linkedin.com/in/jennyschmalz/)
 - 😸 Hobbies: Photography | Tea | Cats | Comedy | Yoga | Gym
 <!--
